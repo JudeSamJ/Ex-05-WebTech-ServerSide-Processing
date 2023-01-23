@@ -95,7 +95,7 @@ RESULT HTML
 ![OUTPUT](./Images/Server_Calc.png)
 ![OUTPUT](./Images/Add.png)
 ![OUTPUT](./Images/Sub.png)
-![OUTPUT](./Images/MUltiply.png)
+![OUTPUT](./Images/Multiply.png)
 ![OUTPUT](./Images/Div.png)
 # RESULT:
 
